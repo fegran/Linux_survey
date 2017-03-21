@@ -1,0 +1,8 @@
+#Que nota tendras en tu primera prueba?
+#Opciones	Votos
+
+N<4	  	1
+4<N<5	14
+5<N<6	5
+N>6  	8
+No_tengo	1

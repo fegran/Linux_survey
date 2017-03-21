@@ -1,0 +1,7 @@
+#Cuanto te demoras en el viaje desde tu casa al campus?
+#Opciones	Votos
+
+t>30min 	11
+30min<t<1hr	14
+1hr<t<2hr	8
+t>2hr   	1
